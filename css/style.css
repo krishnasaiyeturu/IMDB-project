@@ -1,0 +1,14 @@
+#template{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 20px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+#main{
+    width:auto;
+    height: auto;
+    border: 2px solid gray;
+    margin-top: 40px;
+}
